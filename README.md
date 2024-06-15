@@ -22,3 +22,4 @@ You can open the index.html file directly in your browser or use a local server 
 Distributed under the MIT License. See LICENSE for more information.
 # Tapswap_Bot
 # Tapswap_Bot
+
